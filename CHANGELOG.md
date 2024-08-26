@@ -48,6 +48,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Bump `commons-cli:commons-cli` from 1.8.0 to 1.9.0 ([#15298](https://github.com/opensearch-project/OpenSearch/pull/15298))
 - Bump `opentelemetry` from 1.40.0 to 1.41.0 ([#15361](https://github.com/opensearch-project/OpenSearch/pull/15361))
 - Bump `opentelemetry-semconv` from 1.26.0-alpha to 1.27.0-alpha ([#15361](https://github.com/opensearch-project/OpenSearch/pull/15361))
+- Bump `com.google.cloud:google-cloud-storage` from 1.113.1 to 2.42.0 ([#15421](https://github.com/opensearch-project/OpenSearch/pull/15421))
 
 ### Changed
 - Add lower limit for primary and replica batch allocators timeout ([#14979](https://github.com/opensearch-project/OpenSearch/pull/14979))
